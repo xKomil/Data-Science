@@ -80,7 +80,8 @@ Projekt składa się z kilku modułów i formularzy w VBA:
    ![Formularz rejestracji](image-2.png)
 
 3. **Restartowanie hasła**
-    ![Restartowanie hasła](image-4.png)
+
+   ![Restartowanie hasła](image-4.png)
 
 4. **Widok arkusza danych**  
    ![Arkusz danych](image.png)
